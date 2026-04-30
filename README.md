@@ -1,7 +1,7 @@
 # app-dev
 My First Repository
 
-* italics mean it's my favorite *
+- italics mean it's my favorite 
 
 I love the series/movies
 - *Annihilation*
